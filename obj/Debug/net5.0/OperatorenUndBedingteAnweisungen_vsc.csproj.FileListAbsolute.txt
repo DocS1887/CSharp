@@ -1,0 +1,16 @@
+C:\Users\dstoy\C#\OperatorenUndBedingteAnweisungen_vsc\bin\Debug\net5.0\OperatorenUndBedingteAnweisungen_vsc.exe
+C:\Users\dstoy\C#\OperatorenUndBedingteAnweisungen_vsc\bin\Debug\net5.0\OperatorenUndBedingteAnweisungen_vsc.deps.json
+C:\Users\dstoy\C#\OperatorenUndBedingteAnweisungen_vsc\bin\Debug\net5.0\OperatorenUndBedingteAnweisungen_vsc.runtimeconfig.json
+C:\Users\dstoy\C#\OperatorenUndBedingteAnweisungen_vsc\bin\Debug\net5.0\OperatorenUndBedingteAnweisungen_vsc.runtimeconfig.dev.json
+C:\Users\dstoy\C#\OperatorenUndBedingteAnweisungen_vsc\bin\Debug\net5.0\OperatorenUndBedingteAnweisungen_vsc.dll
+C:\Users\dstoy\C#\OperatorenUndBedingteAnweisungen_vsc\bin\Debug\net5.0\ref\OperatorenUndBedingteAnweisungen_vsc.dll
+C:\Users\dstoy\C#\OperatorenUndBedingteAnweisungen_vsc\bin\Debug\net5.0\OperatorenUndBedingteAnweisungen_vsc.pdb
+C:\Users\dstoy\C#\OperatorenUndBedingteAnweisungen_vsc\obj\Debug\net5.0\OperatorenUndBedingteAnweisungen_vsc.csproj.AssemblyReference.cache
+C:\Users\dstoy\C#\OperatorenUndBedingteAnweisungen_vsc\obj\Debug\net5.0\OperatorenUndBedingteAnweisungen_vsc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dstoy\C#\OperatorenUndBedingteAnweisungen_vsc\obj\Debug\net5.0\OperatorenUndBedingteAnweisungen_vsc.AssemblyInfoInputs.cache
+C:\Users\dstoy\C#\OperatorenUndBedingteAnweisungen_vsc\obj\Debug\net5.0\OperatorenUndBedingteAnweisungen_vsc.AssemblyInfo.cs
+C:\Users\dstoy\C#\OperatorenUndBedingteAnweisungen_vsc\obj\Debug\net5.0\OperatorenUndBedingteAnweisungen_vsc.csproj.CoreCompileInputs.cache
+C:\Users\dstoy\C#\OperatorenUndBedingteAnweisungen_vsc\obj\Debug\net5.0\OperatorenUndBedingteAnweisungen_vsc.dll
+C:\Users\dstoy\C#\OperatorenUndBedingteAnweisungen_vsc\obj\Debug\net5.0\ref\OperatorenUndBedingteAnweisungen_vsc.dll
+C:\Users\dstoy\C#\OperatorenUndBedingteAnweisungen_vsc\obj\Debug\net5.0\OperatorenUndBedingteAnweisungen_vsc.pdb
+C:\Users\dstoy\C#\OperatorenUndBedingteAnweisungen_vsc\obj\Debug\net5.0\OperatorenUndBedingteAnweisungen_vsc.genruntimeconfig.cache
