@@ -97,7 +97,7 @@ namespace OperatorenUndBedingteAnweisungen
             // Realisiert dies sowohl mit if-else-, als auch mit einem switch-Statement
 
             // Schreibt ein Programm zur Ausgabe der Farben ( blau, grau, grün, weiß, rot und beige). Lest die Farbe von der Tasatur ein.
-            // Aus dies soll mit if-else- u. switch-Statement realisiert werden. Ich schreib was dazu!
+            // Aus dies soll mit if-else- u. switch-Statement realisiert werden.
             
         }
     }
